@@ -3,7 +3,7 @@
 Ce projet inclut des tests unitaires pour une fonction JavaScript et utilise GitHub Actions pour l'intégration continue.
 
 ## Structure du Projet
-
+```
 projet-test-unitaire/
 ├── .github/
 │ └── workflows/
@@ -13,6 +13,7 @@ projet-test-unitaire/
 ├── test.js
 ├── .gitignore
 └── README.md
+```
 
 
 ## Installation
