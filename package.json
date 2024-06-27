@@ -1,0 +1,15 @@
+{
+    "name": "test-units",
+    "version": "1.0.0",
+    "description": "Projet de tests unitaires",
+    "main": "test.js",
+    "scripts": {
+      "test": "mocha"
+    },
+    "devDependencies": {
+      "mocha": "^9.1.3"
+    },
+    "author": "",
+    "license": "ISC"
+  }
+  
